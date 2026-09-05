@@ -1,0 +1,4 @@
+VERACITY
+Variety is one of the four V’s of Big Data Characteristics, and Veracity of Big Data plays a crucial role in determining the quality, accuracy, and reliability of the data. Big Data often comes from diverse sources, leading to variations in accuracy, completeness, and consistency.
+
+Ensuring data veracity involves addressing data quality issues, performing data cleansing and validation processes, and establishing mechanisms to assess the reliability and trustworthiness of the data. High-quality and reliable data is essential for making sound decisions and drawing meaningful insights from Big Data.

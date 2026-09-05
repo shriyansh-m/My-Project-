@@ -1,0 +1,4 @@
+VOLUME
+Volume is another primary Big Data Characteristics. Volume represents the vast amount of data that is generated and accumulated in the realm of Big Data. The sheer scale of data is massive, often reaching terabytes, petabytes, or even exabytes.
+
+The growth in data volume is attributed to the expansion of digital technologies, such as social media platforms, Internet of Things (IoT) devices, and online transactions. Dealing with such enormous volumes of data necessitates specialised infrastructure, storage systems, and processing capabilities to manage, store, and analyse the data effectively.

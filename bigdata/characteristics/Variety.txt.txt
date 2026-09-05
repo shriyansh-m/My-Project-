@@ -1,0 +1,4 @@
+VARIETY
+Variety is the third V when it comes to the Four V’s of Big Data. Big Data comprises various data types, including structured, semi-structured, and unstructured data. Structured data refers to data that is organised and stored in a predefined format, such as databases and spreadsheets.
+
+Semi-structured data has some organisational structure but does not adhere to a strict schema, such as XML or JSON files. Unstructured data, on the other hand, lacks a predefined structure and includes text documents, social media posts, images, videos, and audio files.

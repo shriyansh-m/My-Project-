@@ -1,0 +1,4 @@
+VELOCITY
+Velocity is one of the Key Characteristics of Big Data. In the context of Big Data, velocity refers to the speed at which data is generated, processed, and analysed. With the advancement of technology and the increasing interconnectivity of systems, data is generated at an unprecedented rate.
+
+Social media updates, sensor readings, online transactions, and other sources produce a continuous stream of data that requires real-time or near-real-time processing. The ability to handle high-velocity data allows organisations to respond swiftly to changing circumstances and make data-driven decisions in a timely manner.

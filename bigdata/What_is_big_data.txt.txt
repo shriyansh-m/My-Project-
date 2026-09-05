@@ -1,0 +1,9 @@
+BIG DATA
+
+Big data refers to massive, complex data sets that traditional data management systems 
+cannot handle. These data sets are often measured in terabytes or petabytes and come 
+from various sources such as customer transactions, social media impressions, 
+internal processes, and proprietary research. The concept of big data emerged with the 
+advent of the internet and other connected technologies, significantly increasing the 
+volume and variety of data available.
+
