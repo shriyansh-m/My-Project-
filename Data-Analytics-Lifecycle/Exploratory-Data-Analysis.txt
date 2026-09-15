@@ -1,0 +1,29 @@
+The Data Analytics Lifecycle is a structured approach to solving data-driven problems. 
+When focusing on descriptive statistics, the lifecycle emphasizes understanding, 
+preparing, and summarizing data to extract meaningful insights. 
+Below are the relevant phases tailored to descriptive statistics:
+
+Discovery Phase This phase involves understanding the problem and identifying 
+the data sources required for analysis. The team formulates initial hypotheses and 
+gathers context about the data. For descriptive statistics, this step ensures 
+clarity on what needs to be summarized or described.
+
+Data Preparation Phase Data is explored, cleaned, and preprocessed to ensure it is 
+ready for analysis. This includes handling missing values, removing duplicates, 
+and transforming data into a usable format. Tools like OpenRefine or 
+Hadoop may assist in this phase. For descriptive statistics, this ensures 
+the data is accurate and consistent for summarization.
+
+Model Planning Phase In this phase, relationships between variables 
+are explored, and key variables are selected. For descriptive statistics, 
+this involves calculating measures like mean, median, mode, standard deviation, 
+and identifying patterns or trends in the data.
+
+Communication of Results The findings from descriptive statistics are summarized and 
+presented to stakeholders. This includes visualizations like histograms, 
+bar charts, and summary tables to convey insights effectively. 
+The goal is to articulate the key patterns and trends observed in the data.
+
+Descriptive statistics primarily focus on summarizing and understanding the 
+data in the early stages of the lifecycle. It provides the foundation for 
+deeper analysis in subsequent phases.

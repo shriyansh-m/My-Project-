@@ -1,0 +1,18 @@
+The requirements and gathering in the data analytics lifecycle involve several key stages:
+
+Problem Definition: Clearly define the business problem and objectives to ensure 
+the analytics project is focused and relevant. 
+
+Requirements Gathering: Engage stakeholders through interviews, surveys, and workshops 
+to gather detailed requirements and expectations. 
+
+Data Discovery: Investigate data sources and develop preliminary hypotheses 
+that can be tested with data. 
+
+Data Preparation: Clean and preprocess data to prepare it for analysis, 
+ensuring quality and accuracy. 
+
+Model Planning: Explore data relationships and select suitable models for analysis. 
+
+These stages are crucial for aligning the analytics project with business goals 
+and ensuring actionable insights are generated.

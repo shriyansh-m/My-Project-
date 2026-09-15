@@ -1,0 +1,6 @@
+The data analytics life cycle is the structured process through which raw
+ data is transformed into actionable insights. Whether in business, 
+ healthcare, or research, following a well-defined analytics cycle ensures 
+ that decisions are based on clean, relevant, and interpretable data. 
+This article outlines the four key phases – collection, cleaning, modeling, 
+and reporting – and explains their role in turning data into value.
